@@ -1,0 +1,6 @@
+{
+  "name": "Apex Drive 3D — Real Physics Driving Simulator",
+  "description": "Real-time 3D driving simulator featuring real-world inspired vehicles, manual 6-speed + reverse transmission, 4-wheel spring-damper suspension physics, and multi-surface proving grounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
